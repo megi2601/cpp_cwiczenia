@@ -1,0 +1,2 @@
+linia 1
+W 5 jest wiadomosc
